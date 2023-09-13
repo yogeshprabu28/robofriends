@@ -1,3 +1,7 @@
+# About Project
+Build Robofriends website using React
+
+
 # Getting Started with Robofreinds App
 
 1. Clone this repo.
